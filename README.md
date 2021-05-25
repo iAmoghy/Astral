@@ -12,7 +12,7 @@ Go to the game directly [here](https://iamoghy.github.io/Astral/index.html) to b
 
 ## Sources and acknowledgments 📚
 
-View the resources and citations used in the development of this project [here](https://iamoghy.github.io/Astral/index.html).
+View the resources and citations used in the development of this project [here](https://github.com/iAmoghy/Astral/blob/main/Sources.md).
 
 - ❗ DISCLAIMER: I do not claim to own any of the works cited in this document. If you wish to have an asset that you own removed from the game, do contact me to let me know.
 
