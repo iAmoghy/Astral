@@ -6,7 +6,7 @@ Welcome to Astral, a space-shooting adventure game developed by Amogh Manral!
 - 👀 I’m interested in front-end and game development
 - 🌱 I’m currently learning HTML, CSS, JS
 
-## Play the game now 💞
+## Play the game now
 
 Go to the game directly [here](https://iamoghy.github.io/Astral/index.html) to begin your journey.
 
